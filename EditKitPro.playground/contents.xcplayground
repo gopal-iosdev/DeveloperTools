@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<playground version='6.0' target-platform='ios' buildActiveScheme='true' importAppTypes='true'>
+    <pages>
+        <page name='Align Around Equals'/>
+        <page name='Auto Mark'/>
+        <page name='Beautify JSON'/>
+        <page name='Convert JSON To Codable'/>
+        <page name='Create Type Definition'/>
+        <page name='Format As Multiline'/>
+        <page name='Copy As Markdown'/>
+        <page name='Search on Google_GitHub_StackOverflow'/>
+        <page name='Sort Imports'/>
+        <page name='Sort Lines Alphabetically'/>
+        <page name='Sort Lines By Length'/>
+        <page name='Wrap in #ifdef'/>
+        <page name='Auto Localize String '/>
+    </pages>
+</playground>
