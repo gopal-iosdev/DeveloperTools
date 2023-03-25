@@ -1,3 +1,6 @@
 [submodule "ios-xcode-snippets"]
 	path = ios-xcode-snippets
 	url = https://github.com/gopal-iosdev/ios-xcode-snippets.git
+[submodule "SemanticUI"]
+	path = SemanticUI
+	url = https://github.com/gopal-iosdev/SemanticUI.git
