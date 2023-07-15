@@ -4,3 +4,6 @@
 [submodule "SemanticUI"]
 	path = SemanticUI
 	url = https://github.com/gopal-iosdev/SemanticUI.git
+[submodule "ControlRoom"]
+	path = ControlRoom
+	url = https://github.com/gopal-iosdev/ControlRoom
